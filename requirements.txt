@@ -1,3 +1,8 @@
+numpy==1.20.1
+pandas==1.2.3
 pip==20.0.2
-pkg-resources==0.0.0
+pkg-ressources==0.0.0
+python-dateutil==2.8.1
+pytz==2021.1
 setuptools==44.0.0
+six==1.15.0
